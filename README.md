@@ -9,3 +9,5 @@ Folders:
  - Ajax: Contains the PHP that solves the angular calls, and repass it to each class.
  - classes : Containts the system class, most of the data here were ommited.
  - Visual: containts the system's views, the visual libraries as well as the angularjs files. 
+ 
+Once the user makes a search the front end calls the redundancy system (https://github.com/jrCoppi/BrandFeelingRedundancy) that will deal with the backend of the application (https://github.com/jrCoppi/BrandFeelingBackEnd) and retrive the data.
